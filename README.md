@@ -1,2 +1,2 @@
 # curso_node
-Curso de node 
+Curso de fundamentos 
